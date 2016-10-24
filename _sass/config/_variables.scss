@@ -1,0 +1,16 @@
+/* Colors */
+
+$black: #000000;
+$white: #fbfbfb;
+
+
+/* Gradients */
+$gradient: radial-gradient( circle at 50% 50%, $black 29%, $black 120%);
+
+// Navigation Burgermenu
+$burger--thickness: 4px;
+$width: 28px;
+$navigation__transition: max-height 0.5s ease-in-out;
+
+// Fonts
+$font-family-sans-serif: 'Raleway', sans-serif;
